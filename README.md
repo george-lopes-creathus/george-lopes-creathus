@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @george-lopes-creathus
+- 👀 I’m interested in DevSecOps.
+- 🌱 I’m currently learning AWS, GCP, Kubernetes, OpenStack and Terraform.
+- 💞️ I’m looking to collaborate on development of open source DevSecOps projecs.
+- 📫 Telegram: @george85mao .
